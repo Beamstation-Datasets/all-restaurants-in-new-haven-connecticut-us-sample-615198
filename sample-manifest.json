@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2ace261d-2715-4cea-a4e1-db080c68097a",
+  "export_job_id": "07ef110e-222a-4414-8d80-4778393101ce",
   "id_short": 615198,
-  "published_at": "2026-04-19T19:19:26Z",
+  "published_at": "2026-05-01T07:03:12Z",
   "repo_name": "all-restaurants-in-new-haven-connecticut-us-sample-615198",
   "sample_asset_name": "beamstation_615198_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/615198/beamstation_615198_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_records": 82,
-  "sample_sha256": "5a18ccf079d4baab2d4c6edc0781be432bc3d0fc24a172efa330e001b9998aeb",
-  "sample_size_bytes": 307250,
-  "total_records": 828
+  "sample_records": 74,
+  "sample_sha256": "cc030816b04fe9f97e59e6fac41bd15c14b3687f26ebed54874ddf3f27a765eb",
+  "sample_size_bytes": 262497,
+  "total_records": 746
 }
