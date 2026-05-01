@@ -1,6 +1,6 @@
 # All Restaurants in New Haven, Connecticut, US
 
-> Free BeamStation sample export with 82 rows and masked direct-contact fields.
+> Free BeamStation sample export with 74 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `615198` |
 | Location | New Haven |
 | Category | Restaurants |
-| Full dataset size | 828 records |
-| Free sample size | 82 records (9.9%) |
-| Last export | 2026-04-16T14:37:27.974995+00:00 |
+| Full dataset size | 746 records |
+| Free sample size | 74 records (9.92%) |
+| Last export | 2026-04-30T19:46:47.805872+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-haven-connecticut-us-sample-615198/releases/download/sample-latest/beamstation_615198_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
